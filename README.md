@@ -4,9 +4,11 @@
 This project is a basic remote desktop application that allows a client to connect to a server and view the remote screen.
 
 ## Members
-- Member 1
-- Member 2
-- Member 3
+- Nguyễn Phú Quang
+- Dương Lê Sơn Hòa
+- Nhuyễn Đăng Khoa
+- Lã Hải Long
+- Đỗ Văn Long
 
 ## Main Features
 - Client connects to server
